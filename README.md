@@ -241,10 +241,10 @@ License
 
 Licensed under the 2-clause BSD license. See [LICENSE.txt](LICENSE.txt).
 
-[github]: https://github.com/Zeex/samp-plugin-crashdetect
-[version]: http://badge.fury.io/gh/Zeex%2Fsamp-plugin-crashdetect
-[version_badge]: https://badge.fury.io/gh/Zeex%2Fsamp-plugin-crashdetect.svg
-[build]: https://ci.appveyor.com/project/Zeex/samp-plugin-crashdetect/branch/master
+[github]: https://github.com/Y-Less/samp-plugin-crashdetect
+[version]: http://badge.fury.io/gh/Y-Less%2Fsamp-plugin-crashdetect
+[version_badge]: https://badge.fury.io/gh/Y-Less%2Fsamp-plugin-crashdetect.svg
+[build]: https://ci.appveyor.com/project/Y-Less/samp-plugin-crashdetect/branch/master
 [build_status]: https://ci.appveyor.com/api/projects/status/nay4h3t5cu6469ic/branch/master?svg=true
-[download]: https://github.com/Zeex/samp-plugin-crashdetect/releases
-[debug_info]: https://github.com/Zeex/samp-plugin-crashdetect/wiki/Compiling-scripts-with-debug-info
+[download]: https://github.com/Y-Less/samp-plugin-crashdetect/releases
+[debug_info]: https://github.com/Y-Less/samp-plugin-crashdetect/wiki/Compiling-scripts-with-debug-info

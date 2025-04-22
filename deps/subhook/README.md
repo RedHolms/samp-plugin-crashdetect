@@ -154,14 +154,14 @@ Known issues
   For example, on Fedora you can have such problems because of SELinux (though
   you can disable it or exclude your files). On macOS Catalina the
   `mprotect()` call inside `subhook_new` will fail with "Permission denied"
-  (see https://github.com/Zeex/subhook/issues/45).
+  (see https://github.com/Y-Less/subhook/issues/45).
 
 License
 -------
 
 Licensed under the 2-clause BSD license.
 
-[build]: https://travis-ci.org/Zeex/subhook
-[build_status]: https://travis-ci.org/Zeex/subhook.svg?branch=master
-[build_win]: https://ci.appveyor.com/project/Zeex/subhook/branch/master
+[build]: https://travis-ci.org/Y-Less/subhook
+[build_status]: https://travis-ci.org/Y-Less/subhook.svg?branch=master
+[build_win]: https://ci.appveyor.com/project/Y-Less/subhook/branch/master
 [build_status_win]: https://ci.appveyor.com/api/projects/status/q5sp0p8ahuqfh8e4/branch/master?svg=true

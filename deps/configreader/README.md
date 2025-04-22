@@ -61,7 +61,7 @@ POSSIBILITY OF SUCH DAMAGE.
 ```
 
 [example]: https://github.com/Zeex/configreader/blob/master/configreader_tests.cpp
-[build]: https://travis-ci.org/Zeex/configreader
-[build_status]: https://travis-ci.org/Zeex/configreader.svg?branch=master
-[build_win]: https://ci.appveyor.com/project/Zeex/configreader/branch/master
+[build]: https://travis-ci.org/Y-Less/configreader
+[build_status]: https://travis-ci.org/Y-Less/configreader.svg?branch=master
+[build_win]: https://ci.appveyor.com/project/Y-Less/configreader/branch/master
 [build_status_win]: https://ci.appveyor.com/api/projects/status/4msd2wh1qihitiy4?svg=true
